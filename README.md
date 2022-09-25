@@ -2,11 +2,10 @@
 
 This project was built by me using React and CSS. It was created to practice my React concepts.
 
+3. Link Heroku app to README.MD
+- `[Live Netlify Deployment](heroku.url.link)`
 
-- [Live Netlify Deployment](https://text-to-color.netlify.app)
-
-
-- ![Screenshot placeholder] (paste screenshot file in parenthesis)
+![txt-to-color](https://user-images.githubusercontent.com/78431899/192166574-5442b315-8207-434e-9a3e-2b2916a2343b.png)
 
 
 - CSS
