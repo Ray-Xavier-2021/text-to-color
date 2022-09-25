@@ -2,12 +2,11 @@
 
 This project was built by me using React and CSS. It was created to practice my React concepts.
 
-3. Link Heroku app to README.MD
-- `[Live Netlify Deployment](heroku.url.link)`
+
+- [Live Netlify Deployment](https://text-to-color.netlify.app)
 
 
-4. Add a Screenshot of Project
-- `![Screenshot placeholder] (paste screenshot file in parenthesis)`
+- ![Screenshot placeholder] (paste screenshot file in parenthesis)
 
 
 - CSS
